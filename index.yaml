@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2021-12-28T12:57:18.782687176+05:30"
+    description: Nginx deployment and nodePort service
+    digest: 18755b88a3aa30513b9dbcbff2e2c03f7600b529c10f2394aa225c61dd37ef42
+    keywords:
+    - demo
+    name: nginx
+    urls:
+    - https://github.com/DipayanP007/helm-chart.git/nginx-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-12-28T12:57:18.782384019+05:30"
