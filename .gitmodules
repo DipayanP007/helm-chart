@@ -1,3 +1,4 @@
 [submodule "charts/nginx/submodule"]
 	path = charts/nginx/submodule
-	url = https://github.com/DipayanP007/submodule.git
+  url = https://github.com/DipayanP007/submodule.git
+  branch = master
